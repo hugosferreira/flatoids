@@ -1,14 +1,14 @@
-Flatoids
+#Flatoids
 ========
 
 
-# Flatoid Icons
+## Flatoid Icons
 
 ![Flatoid Icons preview](flatoids_square_preview.png)
 
 A free set of flat icons in .ai, .eps and .svg.
 
-## Requests
+### Requests
 
 If you have a specific request create an <a href="https://github.com/hugosferreira/flatoids/issues">Issue</a> on this repository.
 
