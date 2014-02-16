@@ -1,7 +1,3 @@
-#Flatoids
-========
-
-
 ## Flatoid Icons
 
 ![Flatoid Icons preview](flatoids_square_preview.png)
