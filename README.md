@@ -1,4 +1,4 @@
-flatoids
+Flatoids
 ========
 
 
