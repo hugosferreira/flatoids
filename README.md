@@ -1,8 +1,8 @@
 ## Flatoid Icons
 
-![Flatoid Icons preview](flatoids_square_preview.png)
+![Flatoid Icons preview](flatoids_square_preview-01.png)
 
-A free set of 156 (and counting!) flat icons in .ai, .eps and .svg.
+A free set of 157 (and counting!) flat icons in .ai, .eps and .svg.
 
 ### Requests
 
